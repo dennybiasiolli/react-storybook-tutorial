@@ -36,6 +36,7 @@
     "@storybook/addon-storyshots": "^5.1.9",
     "@storybook/addons": "^5.1.9",
     "@storybook/react": "^5.1.9",
+    "babel-plugin-macros": "^2.6.1",
     "react-test-renderer": "^16.8.6",
     "require-context.macro": "^1.0.4"
   }
